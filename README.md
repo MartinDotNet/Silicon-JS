@@ -1,3 +1,4 @@
 # Silicon-JS
 
-Tjenare Gänget, fixar denna efter jag är klar med den andra uppgiften.
+Tjenare Gänget, inte riktigt färdig än så jag får lämna in den vid nästa komplimenteringstillfället.
+Ha en bra sommar nu grabbar.
